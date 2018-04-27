@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Конверсия валют из злотых</string>
+    <string name="usd">Доллар</string>
+    <string name="euro">Евро</string>
+    <string name="br">Рубль</string>
+    <string name="result">РЕЗУЛЬТАТ:</string>
+    <string name="enterPln">введите сумму в злотых</string>
+</resources>
