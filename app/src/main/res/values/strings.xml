@@ -1,8 +1,9 @@
 <resources>
     <string name="app_name">Exchange_PLN_BYN</string>
-    <string name="usd">Dollar</string>
-    <string name="euro">Euro</string>
-    <string name="br">Ruble</string>
+    <string name="usd">USD:</string>
+    <string name="euro">EURO: </string>
+    <string name="br">BYN:</string>
     <string name="result">RESULT: </string>
+
     <string name="enterPln">ENTER AMOUNT IN PLN</string>
 </resources>
